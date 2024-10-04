@@ -64,5 +64,6 @@ aws s3 cp sampledata.json s3://folder-to-upload-test-data-file-moz/sampledata.js
 To delete the sample application that you created, you can run the following:
 
 ```bash
+cd terraform
 terraform  destroy
 ```
