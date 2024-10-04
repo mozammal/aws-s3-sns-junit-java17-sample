@@ -55,6 +55,7 @@ terraform apply
 * Now upload the test JSON file
 
 ```bash
+cd ..
 aws s3 cp sampledata.json s3://folder-to-upload-test-data-file-moz/sampledata.json
 ```
 
