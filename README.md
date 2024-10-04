@@ -49,7 +49,6 @@ mvn clean package
 cd terraform
 terraform init
 terraform apply
-terraform output
 ```
 
 * Now upload the test JSON file
