@@ -39,7 +39,7 @@ aws s3 mb s3://folder-to-upload-test-data-file-moz
 
 ```bash
 git clone https://github.com/mozammal/aws-s3-sns-junit-java17-sample.git
-cd aws-api-gateway-dynampodb-sample
+cd aws-s3-sns-junit-java17-sample
 mvn clean package
 ```
 
