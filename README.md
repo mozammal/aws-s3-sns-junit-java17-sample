@@ -52,7 +52,7 @@ terraform plan
 terraform apply
 ```
 
-* Now upload the test JSON file
+* Now upload the test JSON file and monitor the logged events in CloudWatch
 
 ```bash
 cd ..
